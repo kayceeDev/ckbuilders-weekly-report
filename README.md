@@ -23,6 +23,14 @@ An introduction to the core ideas behind CKB, including:
 
 ➡️ [Go to Module 1](./module-one/)
 
+### Module 2 - The CKB Transaction Model (Cells in Action)
+- What a **transaction** really is on CKB
+- How transactions **consume live cells** and **create new cells**
+- Why CKB follows the principle of **off-chain computing, on-chain verification**
+- How transactions can be **constructed manually**
+
+➡️ [Go to Module 2](./module-two/)
+
 > More modules will be added as learning progresses.
 
 ---
@@ -41,3 +49,4 @@ This repository is both a **personal learning log** and a **reference** for anyo
 ## References
 
 - [Nervos Documentation](https://docs.nervos.org)
+- [CKB Academy](https://academy.ckb.dev/courses)
