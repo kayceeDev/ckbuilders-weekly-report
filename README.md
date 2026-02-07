@@ -14,7 +14,7 @@ Each folder represents a **learning module**, with notes written as short, focus
 
 ## Learning Modules
 
-### 📘 Module 1 — How CKB Works (Foundations)
+### Week 1 - 📘 Module one — How CKB Works (Foundations)
 An introduction to the core ideas behind CKB, including:
 - What CKB is and why it exists
 - The Cell model
@@ -23,7 +23,7 @@ An introduction to the core ideas behind CKB, including:
 
 ➡️ [Go to Module 1](./module-one/)
 
-### Module 2 - The CKB Transaction Model (Cells in Action)
+### Week 1 - Module Two - The CKB Transaction Model (Cells in Action)
 - What a **transaction** really is on CKB
 - How transactions **consume live cells** and **create new cells**
 - Why CKB follows the principle of **off-chain computing, on-chain verification**
@@ -31,7 +31,27 @@ An introduction to the core ideas behind CKB, including:
 
 ➡️ [Go to Module 2](./module-two/)
 
-> More modules will be added as learning progresses.
+### Week 2 - Rust and Praticals
+ **Rust Programming Language**:
+
+  - Read through the Chapter 1-3 of the [Rust Book](https://doc.rust-lang.org/book/),including:
+     
+     - Variables and Mutabilty
+     - Functions and control flow
+     - Data types
+     - Brief overview of ownership
+     - Stack vs heap memory management
+     - Did some rust related exercises.
+
+- **CKB (pratical Exercises)**
+  
+  - Went through the Build DApp [CKB Docs](https://docs.nervos.org/docs/dapp/transfer-ckb)
+    
+    - Transfer CKB 
+    - Store Data on Cell
+
+---
+
 
 ➡️ [Go to Week 2](./week-two//)
 
