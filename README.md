@@ -33,6 +33,12 @@ An introduction to the core ideas behind CKB, including:
 
 > More modules will be added as learning progresses.
 
+➡️ [Go to Week 2](./week-two//)
+
+> More modules will be added as learning progresses.
+
+---
+
 ---
 
 ## Learning Philosophy
