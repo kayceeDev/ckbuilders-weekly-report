@@ -55,6 +55,45 @@ An introduction to the core ideas behind CKB, including:
 
 ➡️ [Go to Week 2](./week-two//)
 
+
+### Week 3 - 🔐 Cryptography, Consensus & L1 Foundations
+
+This week focused on strengthening the **first-principles understanding** required for Layer 1 blockchain engineering.
+
+#### Blockchain & Cryptography Fundamentals
+
+- Public key cryptography and digital signatures  
+- SHA256 hashing fundamentals  
+- Hash properties (collision resistance, avalanche effect)  
+- Proof of Work mechanics (nonce search, difficulty adjustment)  
+- Block structure and Merkle trees  
+- How immutability emerges from chained hashing  
+
+This deepened my understanding of how blockchain security emerges from cryptography and economic incentives.
+
+#### Nervos L1 Developer Training
+
+Started the official Nervos Developer Training Course:  
+https://nervos.gitbook.io/developer-training-course/nervos-basics
+
+Covered:
+
+- CKB architecture overview  
+- Cell Model vs Account Model  
+- Lock Scripts and Type Scripts  
+- CKB-VM execution model  
+- Separation of state and validation logic  
+
+This reinforced the idea that on CKB:
+- State → Cells
+- Ownership → Lock Script
+- Validation → Type Script
+- Execution → CKB-VM
+
+➡️ [Go to Week 3](./week-three/)
+
+---
+
 > More modules will be added as learning progresses.
 
 ---
