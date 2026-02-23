@@ -94,9 +94,15 @@ This reinforced the idea that on CKB:
 
 ---
 
-> More modules will be added as learning progresses.
+### Week 4 - focused on consolidation rather than major implementation.
+
+The primary goal was to revisit foundational concepts, experiment with transaction workflows, and gain deeper clarity around Rust-based script development in the Nervos ecosystem.
+
+➡️ [Go to Week 4](./week-four/)
 
 ---
+
+> More modules will be added as learning progresses.
 
 ---
 
