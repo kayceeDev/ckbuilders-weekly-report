@@ -109,6 +109,30 @@ Key takeaway:
 
 ---
 
+### Week 6 — Architecture Reflection & Mental Model Reinforcement
+
+Week 6 was intentionally used as a reflection and consolidation phase rather than introducing new implementations.
+
+After experimenting with the **Escrow Lite** lock in Week 5, the focus shifted toward strengthening the architectural understanding behind CKB's design decisions.
+
+Key areas revisited:
+
+- The **Cell Model** as a state container
+- The role of **Lock Scripts vs Type Scripts**
+- How **transaction validation flows through the CKB-VM**
+- Why CKB encourages **script composition instead of custom cryptography**
+- The relationship between **lock hashes, identities, and transaction participation**
+
+This reflection helped reinforce an important design principle within CKB:
+
+> Scripts should enforce conditions using existing primitives rather than re-implement cryptographic logic.
+
+The week also involved reviewing and refining earlier notes to ensure the explanations remain clear, accurate, and beginner-friendly.
+
+➡️ [Go to Week 6](./week-six/)
+
+---
+
 ## 🧠 Learning Philosophy
 
 * First-principles understanding
