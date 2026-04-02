@@ -1,14 +1,13 @@
----
 # Learning Nervos CKB — From First Principles
 
 This repository documents my journey into **blockchain fundamentals**, focused on the **Nervos Network (CKB)**.
 
 The goal:
 
-* Build a strong mental model of CKB
-* Learn Nervos architecture from first principles
-* Break down complex blockchain concepts clearly
-* Progress from foundations to deeper technical work
+- Build a strong mental model of CKB
+- Learn Nervos architecture from first principles
+- Break down complex blockchain concepts clearly
+- Progress from foundations to deeper technical work
 
 Each folder represents a weekly learning module.
 
@@ -22,16 +21,16 @@ Each folder represents a weekly learning module.
 
 **Module One — How CKB Works**
 
-* What CKB is and why it exists
-* The Cell model
-* Scripts & CKB-VM
-* Transaction structure
+- What CKB is and why it exists
+- The Cell model
+- Scripts & CKB-VM
+- Transaction structure
 
 **Module Two — The Transaction Model**
 
-* Consuming and creating cells
-* Off-chain computation, on-chain verification
-* Manual transaction construction
+- Consuming and creating cells
+- Off-chain computation, on-chain verification
+- Manual transaction construction
 
 ➡️ [Week 1](./module-one/) | [Module Two](./module-two/)
 
@@ -39,11 +38,10 @@ Each folder represents a weekly learning module.
 
 ### Week 2 — Rust & Practical CKB
 
-* Rust fundamentals (ownership, control flow, memory model)
-* CKB DApp exercises:
-
-  * Transfer CKB
-  * Store data in cells
+- Rust fundamentals (ownership, control flow, memory model)
+- CKB DApp exercises:
+  - Transfer CKB
+  - Store data in cells
 
 ➡️ [Go to Week 2](./week-two/)
 
@@ -53,18 +51,18 @@ Each folder represents a weekly learning module.
 
 Strengthened blockchain foundations:
 
-* Public key cryptography & digital signatures
-* SHA256 & hash properties
-* Proof of Work mechanics
-* Block structure & Merkle trees
-* CKB architecture (Cells, Locks, Types, VM)
+- Public key cryptography & digital signatures
+- SHA256 & hash properties
+- Proof of Work mechanics
+- Block structure & Merkle trees
+- CKB architecture (Cells, Locks, Types, VM)
 
 Core mental model reinforced:
 
-* **State → Cells**
-* **Ownership → Lock Script**
-* **Validation → Type Script**
-* **Execution → CKB-VM**
+- **State → Cells**
+- **Ownership → Lock Script**
+- **Validation → Type Script**
+- **Execution → CKB-VM**
 
 ➡️ [Go to Week 3](./week-three/)
 
@@ -74,9 +72,9 @@ Core mental model reinforced:
 
 Focused on deepening understanding of:
 
-* Script execution flow
-* Transaction validation lifecycle
-* Rust-based CKB script structure
+- Script execution flow
+- Transaction validation lifecycle
+- Rust-based CKB script structure
 
 This week emphasized that CKB scripts enforce **conditions**, not application logic.
 
@@ -90,15 +88,15 @@ Moved from theory to experimentation by building a minimal **Escrow Lite** lock.
 
 Explored:
 
-* Script composition
-* Lock hash as identity
-* Conditional unlock patterns
-* Delegating signature verification to existing system locks
+- Script composition
+- Lock hash as identity
+- Conditional unlock patterns
+- Delegating signature verification to existing system locks
 
 Implemented two modes:
 
-* **Signature Mode** — unlocks if a specified lock hash participates
-* **TimeLock Mode** — unlocks after a defined timestamp
+- **Signature Mode** — unlocks if a specified lock hash participates
+- **TimeLock Mode** — unlocks after a defined timestamp
 
 Key takeaway:
 
@@ -135,10 +133,10 @@ The week also involved reviewing and refining earlier notes to ensure the explan
 
 ## 🧠 Learning Philosophy
 
-* First-principles understanding
-* Accuracy over hype
-* Clear mental models
-* Incremental depth
+- First-principles understanding
+- Accuracy over hype
+- Clear mental models
+- Incremental depth
 
 This repository serves as both a **personal learning log** and a reference for developers exploring Nervos CKB.
 
@@ -146,7 +144,7 @@ This repository serves as both a **personal learning log** and a reference for d
 
 ## References
 
-* [Nervos Documentation](https://docs.nervos.org)
-* [CKB Academy](https://academy.ckb.dev/courses)
+- [Nervos Documentation](https://docs.nervos.org)
+- [CKB Academy](https://academy.ckb.dev/courses)
 
 ---
