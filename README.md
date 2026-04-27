@@ -131,6 +131,64 @@ The week also involved reviewing and refining earlier notes to ensure the explan
 
 ---
 
+### Week 7 & 8 — Consolidation, Review & Direction Reset
+
+Used this period to revisit earlier escrow work, strengthen the mental model around script composition, and reset direction before moving into a fuller application build.
+
+➡️ [Go to Week 7 & 8](./week%207-8/)
+
+---
+
+### Week 9 — Escrow System Prototype
+
+Transitioned from isolated script experimentation into a more complete escrow system spanning:
+
+- contract logic
+- protocol / transaction construction
+- frontend interaction
+
+➡️ [Go to Week 9](./week%209/)
+
+---
+
+### Week 10 — Escrow Infrastructure, Repo Split, and Deployment Preparation
+
+Focused on the foundational work needed to turn the escrow prototype into a more structured system:
+
+- contract hardening
+- protocol and service-layer work
+- frontend extraction and repo split
+- deployment profile support and testnet deployment preparation
+
+➡️ [Go to Week 10](./week-10/)
+
+---
+
+### Week 11 — Frontend Architecture Shift
+
+Moved the frontend into a cleaner product-oriented shell by:
+
+- migrating to a Next.js app structure
+- introducing product routes
+- separating product-facing and studio/operator surfaces more clearly
+
+➡️ [Go to Week 11](./week-11/)
+
+---
+
+### Week 12 — Product UX, Discovery, and Settlement Preparation
+
+Improved the escrow product experience by:
+
+- refining the buyer-facing interface
+- adding mobile navigation
+- introducing role-aware escrow discovery
+- supporting participant-script-backed settlement preparation
+
+➡️ [Go to Week 12](./week-12/)
+
+---
+
 ## 🧠 Learning Philosophy
 
 - First-principles understanding
