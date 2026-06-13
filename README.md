@@ -189,6 +189,70 @@ Improved the escrow product experience by:
 
 ---
 
+### Week 13 — Frontend Product Consolidation
+
+Continued the move toward a more structured escrow frontend and clarified the product shell around live contract interactions.
+
+➡️ [Go to Week 13](./week-13/)
+
+---
+
+### Week 14 — Consolidation, Bugs, and Operational Learning
+
+Focused on confronting implementation issues, debugging across layers, and strengthening the mental model around honest product-to-contract alignment.
+
+➡️ [Go to Week 14](./week-14/)
+
+---
+
+### Week 15 — Wallet Connection, Network Awareness, and Product-State Alignment
+
+Improved connected wallet handling, network awareness, and the realism of the buyer-facing create flow.
+
+➡️ [Go to Week 15](./week-15/)
+
+---
+
+### Week 16 — Network-Aware Deployment and Frontend Context
+
+Added network-aware deployment flow, testnet/mainnet separation, and stronger frontend network context.
+
+➡️ [Go to Week 16](./week-16/)
+
+---
+
+### Week 17 — Standalone Product Configuration and Capacity Fixes
+
+Moved the buyer-facing product closer to standalone operation with deployment prefill, create-capacity fixes, and live-escrow-focused UI polish.
+
+➡️ [Go to Week 17](./week-17/)
+
+---
+
+### Week 18 — Arbitrator Assignment and Live Escrow Routing
+
+Simplified the buyer flow with automatic platform arbitrator assignment, cleaner create behavior, and better live escrow routing.
+
+➡️ [Go to Week 18](./week-18/)
+
+---
+
+### Week 19 — Detail Page Simplification and Settlement Debugging
+
+Improved the buyer-facing detail experience, timeline UX, and deeper live settlement/runtime debugging.
+
+➡️ [Go to Week 19](./week-19/)
+
+---
+
+### Week 20 — Escrow Listing Flow and Contract-Aligned Refinement
+
+Added a dedicated escrow listing flow, create-to-list navigation, and further settlement/runtime refinement against the deployed contract.
+
+➡️ [Go to Week 20](./week-20/)
+
+---
+
 ## 🧠 Learning Philosophy
 
 - First-principles understanding
